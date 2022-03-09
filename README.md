@@ -5,4 +5,6 @@ Integrantes:
 - Julian Eduardo Santos Niño.
 - David Mauricio Valoyes Porras.
 
+El reporte generado con la instrucción "pandas profiling" se adjunta como archivo html para su visualización.
+
 Video demostrativo y explicativo del ejercicio: https://youtu.be/zqta5kIOVMs
