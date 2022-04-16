@@ -1,6 +1,6 @@
 # ComputacionCientificaYAnalitica
 
-Integrantes:
+Integrantes en los trabajos grupales:
 - Julian Andrés León Fonseca.
 - Julian Eduardo Santos Niño.
 - David Mauricio Valoyes Porras.
@@ -11,3 +11,6 @@ Notas:
 
 Video demostrativo y explicativo del taller 1: https://youtu.be/zqta5kIOVMs
 Video demostrativo y explicativo del taller 2:
+
+Trabajos individuales:
+- Taller de calidad de datos (Bonus)
